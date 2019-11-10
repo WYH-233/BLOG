@@ -1,2 +1,5 @@
 # BLOG
-About Datastructure and Algorithm and Bioinformatics
+
+包含了开始学编程和数据结构的代码，包括备战数学建模、蓝桥杯等。
+部分来自于我的CSDN博客。
+后期会有关于生物信息学以及计算生物信息学的相关内容
